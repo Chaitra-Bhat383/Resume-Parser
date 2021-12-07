@@ -42,6 +42,8 @@ const Upload = () => {
         <input type = "text"
         className = "upload1"
         name = "uploads"
+        autocomplete="off"
+        spellcheck="false"
         value = { upload.uploads }
         onChange = { handleInputs }
         placeholder = "INSERT RESUME" />

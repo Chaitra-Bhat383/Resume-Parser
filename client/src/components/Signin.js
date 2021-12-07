@@ -25,7 +25,6 @@ const Signin = () => {
         } else {
             window.alert("Successful login");
             console.log("Successful login");
-
             history("/home");
         }
     }
@@ -41,6 +40,7 @@ const Signin = () => {
         <input type = "text"
         placeholder = "USERNAME"
         className = "username"
+        autocomplete="off"
         name = "username"
         value = { username }
         onChange = {
@@ -48,6 +48,7 @@ const Signin = () => {
         <input type = "password"
         placeholder = "PASSWORD"
         className = "password"
+        autocomplete="off"
         name = "password"
         value = { password }
         onChange = {
