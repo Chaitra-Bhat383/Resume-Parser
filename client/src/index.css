@@ -1,0 +1,656 @@
+.Navigation {
+    position: relative;
+    padding: 10px;
+    left: 0%;
+    background-color: #457B9D;
+    width: 100%;
+}
+
+.fourth {
+    float: right;
+    font-size: 30px;
+    font-family: Arvo;
+    color: black;
+    font-style: normal;
+    font-weight: bold
+}
+
+.Heading4 {
+    position: absolute;
+    left: 40.91%;
+    right: 30.67%;
+    top: 7%;
+    bottom: 89.8%;
+    font-family: Arvo;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 64px;
+    line-height: 79px;
+    color: #1D3557;
+}
+
+.navtext {
+    text-decoration: none;
+    font-size: 25px;
+    font-family: Arvo;
+    color: black;
+    font-style: normal;
+    font-weight: bold;
+}
+
+.page {
+    position: fixed;
+    overflow-y: hidden;
+    width: 100%;
+    height: 100%;
+    background: #A8DADC;
+}
+
+
+.text {
+    position: absolute;
+    width: 1000px;
+    height: 507px;
+    left: 209px;
+    top: 100px;
+}
+
+.Heading {
+    position: absolute;
+    padding: 10px;
+    width: 35%;
+    left: 10%;
+    top: 14.35%;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: bold;
+    color: black;
+}
+
+.rate {
+    position: absolute;
+    padding: 14px;
+    width: 41%;
+    left: 10%;
+    bottom: 35%;
+    background: #F50057;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 45px;
+    border-color: #F50057;
+}
+
+.build {
+    position: absolute;
+    padding: 10px;
+    left: 10%;
+    bottom: 23%;
+    width: 20%;
+    font-size: 18px;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    height: 50px;
+    background: #F50057;
+    color: white;
+    border-radius: 45px;
+    border-color: #F50057;
+}
+
+.img3 {
+    position: absolute;
+    padding: 20px;
+    width: 30%;
+    height: 70%;
+    left: 60%;
+    top: 16%;
+    background-color: #f1faee;
+}
+
+.stand {
+    position: absolute;
+    padding: 10px;
+    width: 20%;
+    left: 31%;
+    bottom: 23%;
+    height: 50px;
+    font-size: 18px;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    background: #F50057;
+    color: white;
+    border-radius: 45px;
+    border-color: #F50057;
+}
+
+.home {
+    left: 70%;
+}
+
+.paragraph {
+    position: absolute;
+    width: 60%;
+    left: 3%;
+    top: 17%;
+    font-family: Arvo;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 50px;
+    color: #000000;
+}
+
+.contentcreator {
+    position: absolute;
+    padding: 20px;
+    width: 25%;
+    height: 30%;
+    left: 70%;
+    top: 16%;
+    background-color: #F1FAEE;
+}
+
+.creators {
+    position: absolute;
+    width: 30%;
+    height: 30%;
+    left: 2.5%;
+    top: 35%;
+    font-family: Arvo;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 54px;
+    line-height: 119px;
+    color: #000000;
+}
+
+.Charvi {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 5%;
+    top: 370px;
+    border-radius: 180px;
+}
+
+.Ankitha {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 35%;
+    top: 370px;
+    border-radius: 180px;
+}
+
+.Chaitra {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 65%;
+    top: 370px;
+    border-radius: 180px;
+}
+
+.Name1 {
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 5%;
+    top: 570px;
+    font-family: Arvo;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 44px;
+    color: #000000;
+}
+
+.Name2 {
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 38%;
+    top: 570px;
+    font-family: Arvo;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 44px;
+    color: #000000;
+}
+
+.Name3 {
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 65%;
+    top: 570px;
+    font-family: Arvo;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 44px;
+    color: #000000;
+}
+
+.frame {
+    position: absolute;
+    width: 50%;
+    height: 100%;
+    left: 25%;
+    top: 0px;
+    background: #A8DADC;
+}
+
+.username {
+    position: absolute;
+    padding: 20px;
+    width: 40%;
+    left: 30%;
+    top: 57.35%;
+    bottom: 32.04%;
+    background: #F1FAEE;
+}
+
+.password {
+    position: absolute;
+    padding: 20px;
+    width: 40%;
+    left: 30%;
+    right: 12.75%;
+    top: 71.63%;
+    bottom: 17.76%;
+    background: #F1FAEE;
+}
+
+.Heading1 {
+    position: absolute;
+    left: 40.91%;
+    right: 30.67%;
+    top: 7%;
+    bottom: 89.8%;
+    font-family: Arvo;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 64px;
+    line-height: 79px;
+    color: #1D3557;
+}
+
+.img1 {
+    position: absolute;
+    width: 35%;
+    height: 35%;
+    left: 32%;
+    top: 20%;
+    bottom: 45.31%;
+}
+
+.Submit {
+    position: absolute;
+    padding: 30px;
+    width: 20%;
+    left: 40%;
+    top: 88.16%;
+    bottom: 2.35%;
+    background: #F50057;
+    border-radius: 24px;
+}
+
+.signin {
+    position: absolute;
+    left: 20%;
+    right: 20.13%;
+    top: 5.69%;
+    bottom: 4.29%;
+    font-family: Arvo;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 59px;
+    color: #FFFFFF;
+}
+
+::placeholder {
+    position: absolute;
+    left: 0%;
+    top: 10%;
+    font-family: Arvo;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 59px
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.body {
+    position: relative;
+    background: #457B9D;
+}
+
+.frame {
+    position: absolute;
+    width: 50%;
+    height: 100%;
+    left: 25%;
+    top: 0px;
+    background: #A8DADC;
+}
+
+.img2 {
+    position: absolute;
+    width: 18%;
+    height: 18%;
+    left: 41.5%;
+    top: 19%;
+    bottom: 45.31%;
+}
+
+.icon1 {
+    position: absolute;
+    width: 7%;
+    height: 11%;
+    left: 29%;
+    top: 40%;
+}
+
+.icon2 {
+    position: absolute;
+    width: 7%;
+    height: 11%;
+    left: 29%;
+    top: 55%;
+}
+
+.icon3 {
+    position: absolute;
+    width: 7%;
+    height: 11%;
+    left: 29%;
+    top: 70%;
+}
+
+.username1 {
+    position: absolute;
+    padding: 20px;
+    width: 35%;
+    height: 11%;
+    left: 36%;
+    top: 40%;
+    background: #F1FAEE;
+}
+
+.password1 {
+    position: absolute;
+    padding: 20px;
+    width: 35%;
+    height: 11%;
+    left: 36%;
+    top: 55%;
+    background: #F1FAEE;
+}
+
+.cpassword1 {
+    position: absolute;
+    width: 35%;
+    left: 36%;
+    height: 11%;
+    top: 70%;
+    padding: 20px;
+    background: #F1FAEE;
+}
+
+.Submit {
+    position: absolute;
+    padding: 30px;
+    width: 20%;
+    height: 9%;
+    left: 40%;
+    top: 84%;
+    background: #F50057;
+    border-radius: 24px;
+}
+
+.signup {
+    position: absolute;
+    left: 20%;
+    right: 20.13%;
+    top: 4%;
+    bottom: 4.29%;
+    font-family: Arvo;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 59px;
+    color: #FFFFFF;
+}
+
+.Heading2 {
+    position: absolute;
+    left: 42%;
+    top: 91%;
+    font-family: Arvo;
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 20px;
+    line-height: 60px;
+    color: #1D3557;
+}
+
+::placeholder {
+    position: absolute;
+    left: 4%;
+    top: 10%;
+    font-family: Arvo;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 59px
+}
+
+.Heading3 {
+    position: absolute;
+    padding: 10px;
+    width: 35%;
+    left: 7%;
+    top: 12%;
+    bottom: 72.04%;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: bold;
+    color: black;
+}
+
+.imgs1 {
+    position: absolute;
+    padding: 20px;
+    width: 30%;
+    height: 50%;
+    left: 7%;
+    bottom: 14.5%;
+    background-color: #FFFFFF;
+}
+
+.imgs2 {
+    position: absolute;
+    padding: 20px;
+    width: 40%;
+    height: 80%;
+    right: 7%;
+    bottom: 13.5%;
+    background-color: #FFFFFF;
+}
+
+.text {
+    position: absolute;
+    width: 30%;
+    height: 70%;
+    left: 60%;
+    top: 20%;
+}
+
+.input {
+    position: absolute;
+    padding: 20px;
+    width: 35%;
+    height: 11%;
+    left: 10%;
+    top: 40%;
+    background: #F1FAEE;
+    border-radius: 45px;
+}
+
+.Heading6 {
+    position: absolute;
+    padding: 10px;
+    width: 35%;
+    left: 15%;
+    top: 30%;
+    bottom: 72.04%;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: bold;
+    color: black;
+}
+
+.upload1 {
+    position: absolute;
+    padding: 14px;
+    width: 35%;
+    left: 15%;
+    height: 27%;
+    bottom: 30%;
+    font-size: 38px;
+    font-weight: bold;
+    border-radius: 45px;
+    border-color: #457B9D;
+}
+
+.build1 {
+    position: absolute;
+    padding: 10px;
+    left: 26%;
+    bottom: 15%;
+    width: 14%;
+    font-size: 32px;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    height: 70px;
+    background: #F50057;
+    color: white;
+    border-radius: 45px;
+    border-color: #F50057;
+}
+
+.img4 {
+    position: absolute;
+    padding: 20px;
+    width: 40%;
+    height: 80%;
+    left: 60%;
+    top: 16%;
+    background-color: #A8DADC;
+}
+
+.Heading7 {
+    position: absolute;
+    padding: 10px;
+    width: 40%;
+    left: 2%;
+    top: 12%;
+    font-size: 40px;
+    font-style: Arvo;
+    font-weight: bold;
+    color: black;
+}
+
+.Heading8 {
+    position: absolute;
+    padding: 10px;
+    width: 40%;
+    left: 2%;
+    top: 62%;
+    font-size: 40px;
+    font-style: Arvo;
+    font-weight: bold;
+    color: black;
+}
+
+.Heading9 {
+    background-color:#F50057;
+    position: absolute;
+    padding: 10px;
+    width: 17.99%;
+    left: 15%;
+    top: 78%;
+    font-size: 45px;
+    font-style: Arial Black;
+    text-align: center;
+    font-weight: bold;
+    color:#F50057;
+}
+
+.imgr1 {
+    position: absolute;
+    width: 35%;
+    height: 20%;
+    left: 7%;
+    bottom: 45%;
+    background-color: #FFFFFF;
+}
+
+.imgr2 {
+    position: absolute;
+    padding: 20px;
+    width: 40%;
+    height: 60%;
+    right: 7%;
+    bottom: 26.5%;
+    background-color: #FFFFFF;
+}
+
+.btn {
+    position: absolute;
+    padding: 14px;
+    width: 21%;
+    right: 17%;
+    bottom: 12%;
+    background: #F50057;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 14px;
+    border-color: #F50057;
+}
+
+.errorpage {
+    position: absolute;
+    padding: 10px;
+    width: 40%;
+    left: 40%;
+    top: 40%;
+    font-size: 150px;
+    font-style: Arvo;
+    font-weight: bold;
+    color: rgb(142, 163, 163);
+}
+
+.errormsg {
+    position: absolute;
+    padding: 10px;
+    width: 40%;
+    left: 35%;
+    top: 53%;
+    font-size: 30px;
+    font-style: Arvo;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+}
