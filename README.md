@@ -13,11 +13,5 @@ After we signup to the website, it asks for different skills we know, which is g
 ![image](https://user-images.githubusercontent.com/79207846/144997523-1e4f6b2c-d60c-440a-9387-23bae2c0214b.png)
 
 
-# Team members
-Chaitra Bhat:https://github.com/Chaitra-Bhat383
-
-Charvi Bannur: https://github.com/charvibannur
-
-Ankitha C:https://github.com/Ankithac45
 
 
